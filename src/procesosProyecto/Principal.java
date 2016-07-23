@@ -1,6 +1,10 @@
 package procesosProyecto;
 
-
+/*
+ * @author: andres vega
+ * @version: 1.0
+ * "Prueba GitHub"
+ */
 import java.awt.Color;
 
 import javax.swing.JFrame;
